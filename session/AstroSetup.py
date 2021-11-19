@@ -61,7 +61,7 @@ def telethon_session():
     print("Welcome There✨")
     print("This is String Session Generator")
     print("For Terminals 😙")
-    print(a)
+  
     print(x)
 
     # the imports
