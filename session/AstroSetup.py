@@ -31,7 +31,7 @@ def spinner():
             sleep(0.1)
         
 os.system("clear")
-
+ 
 print(a)
 print(x)
 
