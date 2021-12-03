@@ -1,10 +1,16 @@
 # Astro-Session
 Generate String Session For ƛsτʀ๏ υsєяъ๏т❤️👀😎
 
-## Paste Below Bash IN YOUR TERMUX
-```
-rm -rf Astro-UB && pkg install python git && git clone https://github.com/AstroUB/Astro-Session && pip install telethon python-dotenv && cd Astro-Session/session && bash string.sh
-```
+## For Terminal
+### Paste Below Bash IN YOUR Termux
+- Open the terminal.
+- Paste this code. <br>
+`rm -rf Astro-UB && pkg install python git && git clone https://github.com/AstroUB/Astro-Session && pip install telethon python-dotenv && cd Astro-Session/session && bash string.sh`
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
+- Your AstroUB Session Will be saved in your Telegram Saved Message.
+
 
 # <i><b> sᴜᴘᴘ๏ʀᴛ </b></i>
 
